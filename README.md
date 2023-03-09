@@ -1,4 +1,4 @@
-# BEAUTY layout
+# BEAUTY
 ---
 No adaptive, SASS
 
